@@ -128,7 +128,7 @@ class Home extends React.Component {
             destination={coord[1]}
             strokeWidth={6}
             strokeColor="hotpink"
-            apikey='AIzaSyCaCCzfQzgaR8JmXNyafVNnUTHtXoB0fXU' />
+            apikey='your api key here' />
         </MapView>
       </View>
     )
